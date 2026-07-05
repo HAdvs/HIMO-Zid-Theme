@@ -1,0 +1,21 @@
+{
+  "name": "HIMO - Luxury Glass Theme",
+  "version": "1.0.0",
+  "description": "Luxury Glass Theme for Zid Platform - Inspired by Apple iOS Liquid Glass & Glassmorphism",
+  "author": "HIMO Design Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HAdvs/HIMO-Zid-Theme"
+  },
+  "keywords": ["zid-theme", "luxury", "glassmorphism", "perfume", "ecommerce"],
+  "supportedLanguages": ["ar", "en"],
+  "features": {
+    "glassEffect": true,
+    "liquidGlassAnimation": true,
+    "darkMode": true,
+    "rtlSupport": true,
+    "performanceOptimized": true,
+    "accessibilityCompliant": true
+  }
+}
